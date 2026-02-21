@@ -362,7 +362,7 @@ public:
         cout << "7. View Election Status" << endl;
         cout << "8. Generate Election Report" << endl;
         cout << "9. Logout" << endl;
-        cout << "==================" << endl;
+        cout << "====================" << endl;
     }
 };
 
